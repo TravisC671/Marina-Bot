@@ -1,0 +1,19 @@
+{
+    "epochStartTimeHere": {
+        "turf":{
+            "mapA": "mapA",
+            "mapB": "mapB"
+        },
+        "ranked": {
+            "mode":"towerControl",
+            "mapA": "mapA",
+            "mapB": "mapB"
+        },
+        "league": {
+            "mode": "rainMaker",
+            "mapA": "mapA",
+            "mapB": "mapB"
+        }
+    }
+    
+}
